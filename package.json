@@ -1,0 +1,23 @@
+{
+  "name": "css-selectors",
+  "version": "1.0.0",
+  "description": "The html file contains the structure, the scss file a basic layout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sassthis": "node-sass -w scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robkea/css-selectors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robkea/css-selectors/issues"
+  },
+  "homepage": "https://github.com/robkea/css-selectors#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
